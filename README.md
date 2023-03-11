@@ -1,4 +1,6 @@
 ## Stun 测试
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGearinger%2Fstun-test.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FGearinger%2Fstun-test?ref=badge_shield)
+
 
 ### 1、Stun Server
 
@@ -59,3 +61,7 @@ your ip 127.0.0.1
 ```
 
 > 详细使用查看官方文档
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGearinger%2Fstun-test.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FGearinger%2Fstun-test?ref=badge_large)
